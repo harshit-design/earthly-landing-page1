@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/earthly-landing-page1/static/css/main.f4c55d85.css",
+    "main.js": "/earthly-landing-page1/static/js/main.4ba2de0d.js",
+    "static/media/video.mp4": "/earthly-landing-page1/static/media/video.4429ace7ba0cb044a01a.mp4",
+    "static/media/bg.png": "/earthly-landing-page1/static/media/bg.fff84bccc29a44a66eb8.png",
+    "static/media/findus.jpg": "/earthly-landing-page1/static/media/findus.ece3a5a703328b7f09f8.jpg",
+    "static/media/kit.png": "/earthly-landing-page1/static/media/kit.ab649c735e3166a22003.png",
+    "static/media/knife.png": "/earthly-landing-page1/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/earthly-landing-page1/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/first.png": "/earthly-landing-page1/static/media/first.17c109c0eb09234adb58.png",
+    "static/media/gallery01.jpeg": "/earthly-landing-page1/static/media/gallery01.3f27007f1556b2dcf48a.jpeg",
+    "static/media/gallery02.jpeg": "/earthly-landing-page1/static/media/gallery02.97b5d0d159d6a2e22153.jpeg",
+    "static/media/gallery03.jpg": "/earthly-landing-page1/static/media/gallery03.66c2345f670083efae99.jpg",
+    "static/media/gallery04.jpg": "/earthly-landing-page1/static/media/gallery04.76ae92267af9909ec473.jpg",
+    "index.html": "/earthly-landing-page1/index.html",
+    "static/media/spoon.svg": "/earthly-landing-page1/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.f4c55d85.css.map": "/earthly-landing-page1/static/css/main.f4c55d85.css.map",
+    "main.4ba2de0d.js.map": "/earthly-landing-page1/static/js/main.4ba2de0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c55d85.css",
+    "static/js/main.4ba2de0d.js"
+  ]
+}
